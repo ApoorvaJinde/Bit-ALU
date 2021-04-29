@@ -1,0 +1,18 @@
+Cheat Sheet
+1)Arithematic
++ is +,        -  is -,           *  is *,           /  is  /
+-------------------------------------------------------------------------------------
+2)Logical
++ is bitwise or “|”
+- is bitwise xor “^”
+* is bitwise and “&”
+/ is bitwise xnor “~^”
+--------------------------------------------------------------------------------------
+3)Single operator
++ is incrementation
+- is decrementation
+* is negation(twos complement)
+---------------------------------------------------------------------------------------------
+4)Shift
++ is left shift
+- is right shift
